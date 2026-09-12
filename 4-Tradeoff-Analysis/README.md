@@ -13,7 +13,9 @@ Create a trade-off matrix comparing the two options using criteria such as:
 - Scalability  
 - Interpretability  
 - Cost  
-- Complexity  
+- Complexity
+Write a conlcusion.
+Use trade off matrix
 
 ## Guidelines
 - Use a table for the comparison.
