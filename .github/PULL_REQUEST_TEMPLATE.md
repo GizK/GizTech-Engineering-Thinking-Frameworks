@@ -1,4 +1,4 @@
-# GizTech Engineering Thinking Contribution — Pull Request
+# Contribution Pull Request
 
 ## Summary of Your Contribution
 Explain clearly what you added to the repository and which task you completed.
