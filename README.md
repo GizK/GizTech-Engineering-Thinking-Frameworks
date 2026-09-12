@@ -21,7 +21,6 @@ GizTech-Engineering-Thinking-Frameworks/
 ├── 6-Technical-Communication/
 │
 ├── README.md
-├── CONTRIBUTING.md
 └── .github/
     ├── ISSUE_TEMPLATE.md
     └── PULL_REQUEST_TEMPLATE.md
