@@ -5,7 +5,7 @@ A structured, open-source educational project designed to teach the core mental 
 This repository supports my **GizTech Engineering Thinking Series** on my channel and culminates in a live online **GizTech Engineering Thinking Masterclass** where mentees apply these frameworks and submit open-source contributions.
 
 ---
-For each task please refer back to my playlist for guidance!
+For each task please refer back to my playlist for guidance! Please click on each folder for the instructions and upload in the folder as instructed in the README,md...
 Link to my playlist: 
 
 ## Repository structure
@@ -36,5 +36,6 @@ GizTech-Engineering-Thinking-Frameworks/
 │
 ├── .gitignore                      
 ├── LICENSE                         
-└── README.md               
+└── README.md
+          
 
