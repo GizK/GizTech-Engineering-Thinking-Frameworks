@@ -1,0 +1,22 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Python cache (if contributors use Python for diagrams)
+__pycache__/
+*.pyc
+
+# Node (if contributors use tools for diagrams)
+node_modules/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
