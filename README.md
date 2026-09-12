@@ -14,13 +14,27 @@ Link to my playlist:
 GizTech-Engineering-Thinking-Frameworks/
 │
 ├── 1-Problem-Definition/
-├── 2-System-Decomposition/
-├── 3-Pseudocode-and-Flowcharts/
-├── 4-Tradeoff-Analysis/
-├── 5-Iteration-Frameworks/
-├── 6-Technical-Communication/
+│   └── README.md
 │
-├── README.md
-└── .github/
-    ├── ISSUE_TEMPLATE.md
-    └── PULL_REQUEST_TEMPLATE.md
+├── 2-System-Decomposition/
+│   └── README.md
+│
+├── 3-Pseudocode-and-Flowcharts/
+│   └── README.md
+│
+├── 4-Tradeoff-Analysis/
+│   └── README.md
+│
+├── 5-Iteration-Frameworks/
+│   └── README.md
+│
+├── 6-Technical-Communication/
+│   └── README.md
+│
+├── .github/
+│   └── PULL_REQUEST_TEMPLATE.md    
+│
+├── .gitignore                      
+├── LICENSE                         
+└── README.md               
+
