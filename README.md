@@ -6,7 +6,8 @@ This repository supports my **GizTech Engineering Thinking Series** on my channe
 
 ---
 For each task please refer back to my playlist for guidance! Please click on each folder for the instructions and upload in the folder as instructed in the README.md...
-Link to my playlist: 
+
+Link to my playlist: https://youtube.com/playlist?list=PLPavZKNLQl1E&si=Ds9MYcoYXR-A6Cu_
 
 ## Repository structure
 
